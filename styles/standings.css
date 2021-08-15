@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.row{
+    text-align: center;
+    align-items: center;
+}
+
+#standings_page_title{
+    text-align: center;
+    font-weight: 800;
+    font-size: 3.5rem;
+}
+
+.site_info{
+    margin: 40px 0!important;
+}
+
+.btn{
+    margin: 0 30px; 
+    border: none!important;
+    border-radius: 0px!important;
+    background-color: #f51616!important;
+    opacity: 0.85;
+    transition: 0.3s!important;
+}
+
+.btn:hover{
+    opacity: 1;
+}
+
+.standings_tables{
+    margin-bottom: 70px;
+}
+
+.collapse h1{
+    border-bottom: medium solid #f51616;
+}
+
+.table_title{
+    margin: 0 30px;
+}
+
+.table{
+    vertical-align: middle!important;
+    font-size: large;
+}
+
+#constructorStandings{
+    margin-top: 50px!important;
+}
