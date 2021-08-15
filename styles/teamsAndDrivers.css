@@ -1,0 +1,147 @@
+.col{
+    margin:0px;
+} 
+
+.team{
+    min-height: 330px;
+    padding: 15px;
+    margin: 40px;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom-right-radius:10px;
+    transition: 0.15s ease-in;
+}
+
+.nav{
+    width: 100%!important;
+}
+
+.nav-tabs button{
+    color: black;
+}
+
+.nav-tabs button:hover{
+    color: #900000;
+}
+
+#C41 .nav-tabs button:hover{
+    color: #900000;
+}
+
+#A521 .nav-tabs button:hover{
+    color: #0090ff;
+}
+
+#AMR21 .nav-tabs button:hover{
+    color: #006f62;
+}
+
+#MCL35M .nav-tabs button:hover{
+    color: #ff9800;
+}
+
+#RB16B .nav-tabs button:hover{
+    color: #0600ef;
+}
+
+#AT02 .nav-tabs button:hover{
+    color: #2b4562;
+}
+
+#SF21 .nav-tabs button:hover{
+    color: #dc0000;
+}
+
+#VF-21 .nav-tabs button:hover{
+    color: #000000;
+}
+
+#FW43B .nav-tabs button:hover{
+    color: #005aff;
+}
+
+#W12 .nav-tabs button:hover{
+    color: #00d2be;
+}
+
+#teams_and_drivers_page_title{
+    text-align: center;
+    font-weight: 800;
+    font-size: 3.5rem;
+    margin: 30px 0;
+}
+
+.row{
+    margin:0;
+    --bs-gutter-x: 0rem!important;
+}
+
+#teamLogo{
+    height: 50px;
+    margin-right:0;
+    margin-left: auto;
+}
+
+.team p{
+    font-weight: 600;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+.team-car img{
+    max-width: 90%;
+    padding-right: 10px;
+}
+
+.team-info table{
+    width: 100%;
+}
+
+.drivers_data{
+    padding-left: 50px;
+    padding-top: 15px;
+}
+
+.drivers_data table td{
+    padding-left: 10px;
+}
+
+#C41:hover{
+    border-color: #900000;
+}
+
+#A521:hover{
+    border-color: #0090ff;
+}
+
+#AMR21:hover{
+    border-color: #006f62;
+}
+
+#MCL35M:hover{
+    border-color: #ff9800;
+}
+
+#RB16B:hover{
+    border-color: #0600ef;
+}
+
+#AT02:hover{
+    border-color: #2b4562;
+}
+
+#SF21:hover{
+    border-color: #dc0000;
+}
+
+#VF-21:hover{
+    border-color: #000000;
+}
+
+#FW43B:hover{
+    border-color: #005aff;
+}
+
+#W12:hover{
+    border-color: #00d2be;
+}
