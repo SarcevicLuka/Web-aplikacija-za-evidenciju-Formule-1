@@ -1,0 +1,9 @@
+footer{
+    background-image: linear-gradient(90deg, #f51616, #ffffff);
+    margin-top: auto;
+}
+
+.footer_content{
+    padding: 10px;
+    text-align: center;
+}
