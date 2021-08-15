@@ -1,0 +1,125 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Nunito', sans-serif;
+}
+
+#schedule_page_title{
+    text-align: center;
+    font-weight: 800;
+    font-size: 3rem;
+    padding-left: 30px!important;
+    margin-top: 30px;
+}
+
+.row{
+    margin: 0 0 0 0!important;
+    text-align: center;
+}
+
+.site_info{
+    margin-top: 50px!important;
+    margin-bottom: 50px!important;
+}
+
+.upcomming_race{
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-left: 0;
+    margin-top: 30px;
+    font-weight: 600;
+    font-size: large;
+}
+
+.card{
+    margin: 0 0 0 0!important;
+    border-radius: 0px!important;
+    background-color: #f5f5f5!important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+    border-top: none!important;
+    transition: all 0.2s ease-in;
+    -webkit-transition: all 0.2s ease-in;
+    -moz-transition: all 0.2s ease-in;
+}
+
+.card p{
+    margin-top: 30px;
+}
+
+.card img{
+    align-self: center;
+    width: 100px;
+    height: 60px;
+    margin-top: -10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+}
+
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    transform: translateY(3px);
+}
+
+.btn{
+    border: none!important;
+    border-radius: 0px!important;
+    background-color: #f51616!important;
+}
+
+.btn:hover{
+    background-color: #d1d1d1!important;
+    color: #f51616!important;
+    font-weight: 600;
+}
+
+.modal{
+    margin: 0;
+}
+
+.modal-body .table img{
+    margin-bottom: 20px;
+}
+
+.modal-body .track img{
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.modal a{
+    text-decoration: inherit;
+    background-color: #f51616;
+    color: #ffffff;
+    padding: 5px 5px;
+    transition-duration: 200ms;
+}
+
+.modal a:hover{
+    color: #ffffff;
+    transform:translateY(3px);
+}
+
+.track{
+    margin-top: 40px;
+}
+
+.content-wrapper{
+    margin-bottom: 70px;
+}
+
+@media only screen and (max-width:500px){
+    .modal-body .table img{
+        height: 120px;
+    }
+
+    .modal_finished .table{
+        display: block;
+        overflow: auto;
+        width: 100%;
+    }
+    
+    .accordion .table{
+        display: block;
+        overflow: auto;
+    }
+}
