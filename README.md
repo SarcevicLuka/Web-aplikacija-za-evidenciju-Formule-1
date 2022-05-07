@@ -93,4 +93,4 @@ Mobilni prikaz
 
 ---
 
-Za dodatne inormacije o završnom radu pogledajte dokument [Završni rad - Luka Šarčević - Web aplikacija za evidenciju utrka Formule 1]()
+Za dodatne inormacije o završnom radu pogledajte dokument [Završni rad - Luka Šarčević - Web aplikacija za evidenciju utrka Formule 1](https://github.com/SarcevicLuka/Web-aplikacija-za-evidenciju-Formule-1/blob/main/Zavr%C5%A1ni%20rad%20-%20Luka%20%C5%A0ar%C4%8Devi%C4%87%20-%20Web%20aplikacija%20za%20evidenciju%20utrka%20Formule%201%20%E2%80%93%20PDF.pdf)
